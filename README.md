@@ -73,3 +73,6 @@ export default defineConfig([
   },
 ])
 ```
+
+# To setup the project :-
+        npm create vite@latest my-react-app -- --template react-ts
